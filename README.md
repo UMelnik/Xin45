@@ -10,5 +10,5 @@
 таблица умноженияСС - в названии python                        
 буквы с точечками - пример работы с программой Automatic Mouse and keyboard          
 пайтонлогика - логическая программа на пайтоне        
-$F=mc^2$
+$F=mc^2$        
 ![lagrida_latex_editor](https://user-images.githubusercontent.com/114554816/198192287-57af67b3-2124-4067-9b14-c12a5f4508ba.png)
