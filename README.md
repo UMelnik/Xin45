@@ -12,4 +12,5 @@
 пайтонлогика - логическая программа на пайтоне        
 $F=mc^2$        
 ![lagrida_latex_editor](https://user-images.githubusercontent.com/114554816/198192287-57af67b3-2124-4067-9b14-c12a5f4508ba.png)              
-![lagrida_latex_editor (2)](https://user-images.githubusercontent.com/114554816/200735552-d83d3524-d94b-4519-8772-8f17737b053a.png)
+![lagrida_latex_editor (2)](https://user-images.githubusercontent.com/114554816/200735552-d83d3524-d94b-4519-8772-8f17737b053a.png)             
+\overline{E}_{1}^{2} = \sqrt{\frac{F\cdot a^{x-1}}{(x-1)\cdot x}} + \alpha_1^{\frac{1}{3}}  + \beta_2^{\frac{2}{3}}
